@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>dev-platform.eclipse-project</name>
+	<name>development-environment.project</name>
 	<comment></comment>
 	<projects>
 		<project>dev-platform</project>
